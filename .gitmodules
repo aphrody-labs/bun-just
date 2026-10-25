@@ -1,0 +1,5 @@
+[submodule "vendor/just"]
+	path = vendor/just
+	url = https://github.com/aphrody-labs/just.git
+	branch = bun
+	shallow = true
